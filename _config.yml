@@ -5,6 +5,7 @@ title: Alex D'Angelo
 
 # Short description of your site
 description: Writing
+<<<<<<< HEAD
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -16,6 +17,8 @@ url: "https://www.alexdangelo.com"
 
 # baseurl should be an empty string
 #baseurl: ""
+=======
+>>>>>>> Simple description that appears in the page title
 
 # --- Navigation bar options --- #
 
