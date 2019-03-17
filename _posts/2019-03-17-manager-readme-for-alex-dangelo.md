@@ -11,11 +11,13 @@ I want you to grow and flourish in your career. I want you to enjoy what you wor
 
 I believe a low-stress, safe workplace leads to better results (such as higher quality, increased productivity, bigger impacts). I want you to focus on helping build out the products, asking questions, and taking risks.
 
-I am here to support you in your career but it's up to you to drive it.
+I am here to assist you in your career but it's up to you to drive it.
 
 Do you want to work on something specific? Want to drive a feature or lead a small team? Some other experience? Let me know, and I'll do what I can to help find something appropriate or discuss how to get there.
 
-I tend to be collaborative. I prefer to create an environment where others can be empowered to take ownership and drive work to completion. 
+I foster a supportive, collaborative environment. It's ok to ask questions. 
+
+I aim to empower others to take ownership and drive work to completion. 
 
 I'm trying to be a better manager. I want to keep getting better at what I do. I need feedback too. Knowing how to help you helps me too.
 
@@ -31,7 +33,7 @@ I believe in learning and moving forward together. If something bad happens, it'
 
 ## Communication
 
-For quick notes, email, Slack, and talking in person are fine. No preference between them.
+For quick notes: email, Slack, and talking in person are fine. No preference between them.
 
 For disagreements or hot issues, I prefer to talk in person. Email and Slack are my least favorite options due to the lag in the conversation, potential for tone to be misread, missed body language cues, and having words heavily parsed.
 
