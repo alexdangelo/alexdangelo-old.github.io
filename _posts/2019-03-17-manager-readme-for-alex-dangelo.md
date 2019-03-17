@@ -3,6 +3,7 @@ layout: post
 title: Manager README
 subtitle: A quick guide to understanding how I work
 ---
+If we ever get a chance to work together, this is a summary of how I operate, my motivations, and what I have to offer.
 
 I want you to grow and flourish in your career. I want you to enjoy what you work on, to have opportunities to try new things, and have experiences that will not only help you at PayScale but in your career beyond.
 
