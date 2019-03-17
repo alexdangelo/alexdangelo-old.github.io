@@ -15,6 +15,8 @@ I am here to support you in your career but it's up to you to drive it.
 
 Do you want to work on something specific? Want to drive a feature or lead a small team? Some other experience? Let me know, and I'll do what I can to help find something appropriate or discuss how to get there.
 
+I tend to be collaborative. I prefer to create an environment where others can be empowered to take ownership and drive work to completion. 
+
 I'm trying to be a better manager. I want to keep getting better at what I do. I need feedback too. Knowing how to help you helps me too.
 
 ## A safe place
