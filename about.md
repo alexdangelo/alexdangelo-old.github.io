@@ -4,7 +4,7 @@ title: About me
 subtitle: Hi, my name is Alex
 ---
 
-I'm a software development manager.
+I'm a software development manager. See my [README](https://www.alexdangelo.com/manager-readme-for-alex-dangelo/)
 
 ### my history
 
