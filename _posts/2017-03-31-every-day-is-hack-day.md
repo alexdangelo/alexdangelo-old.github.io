@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Every day is hack day
-subtitle: Let's be kind to ourselves
+subtitle: Working differently can provide a spark.
 ---
 
 "Wow, this is the coolest company". 
