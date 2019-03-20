@@ -4,7 +4,7 @@ title: Reinforcing a fun culture through everyday tasks
 subtitle: Be playful
 ---
 
-A typical exchange completely over an internal email list between new account managers and the product development team for an internal tool:
+A typical exchange completely between new account managers and the product development team for an internal tool:
 
 **AM**: "Please grant me access"  
 **Dev**: "Done"  
@@ -14,7 +14,7 @@ Mechanical but it gets the job done and everyone moves on.
 
 But what if we were a little playful? What does that bring out from everyone? I replied in the jesterly style of one of the dev leads and had a great surprise!
 
-**AM**: "Please grant Rachel and me support user access"  
+**AM**: "Please grant Rachel and me access"  
 **Dev (me)**: "You and Rachel now have the power. Use it for good and not evil."  
 **AM**: "I will only use my powers for good, I can't tell you what Rachel will do however!"  
 **AM Rachel**: "Absolutely no promises! :)"  
