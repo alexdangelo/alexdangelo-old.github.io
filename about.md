@@ -11,6 +11,4 @@ I serve my team through encouraging leadership at all levels, encourage both col
 
 I also mentor managers across the company, including outside of engineering, and consistently receive feedback that it makes a positive impact in their leadership.
 
-### my history
-
-Best to see [Alex D'Angelo on LinkedIn](https://www.linkedin.com/in/alexdangelo/).
+See more at [Alex D'Angelo on LinkedIn](https://www.linkedin.com/in/alexdangelo/).
