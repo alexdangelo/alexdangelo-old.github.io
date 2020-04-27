@@ -65,8 +65,7 @@ BS & MS, Computer Science
 * Leading distributed product development teams
 * Leadership development, mentoring
 * Agile Scrum and Kanban, scrum master
-* *Technical*: C#, .Net Core, C++, React, TypeScript / JavaScript, Node.js, Html, Css, Amazon Web Services / AWS, Microsoft Azure, CI/CD, service-oriented architecture / microservices, DevOps
-Project Management
+* *Technical*: C#, .Net Core, C++, React, TypeScript / JavaScript, Node.js, Html, Css, Amazon Web Services / AWS, Microsoft Azure, CI/CD, service-oriented architecture / microservices, DevOps, Project Management
 * Working with diverse stakeholders
 * Effective communication and writing
 
