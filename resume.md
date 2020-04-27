@@ -19,7 +19,7 @@ Designed and built a custom version of a flagship product, including migrating t
 I serve my team through encouraging leadership at all levels, collaboration and taking initiative, nurturing their development through regular 1:1s, career planning, and helping them find ways to gain new experiences and build reputation.
 
 ### PayScale, Seattle, WA — Software Development Manager ###
-##### Jan 2016 - Jan 2018 #####
+*##### Jan 2016 - Jan 2018 #####*
 Led a team of 4 engineers responsible for serving ~3 million unique pages to tens of millions of users on payscale.com. This is the main avenue for acquiring data and leads.
 
 Increased front-end and server-side performance (nearly 2x faster).
@@ -58,7 +58,7 @@ Developed OpenSocial REST web services and APIs, including core functionality su
 Developed primarily user-facing features on Bing Book Search v1.0, Academic Search v2.0, and Windows Vista/7/8. On Internet Explorer 9, I added fundamental HTML5 and SVG features such as SVG Gradient and contributed to GPU-accelerated rendering.
 
 ## Education ##
-**University of California, Santa Cruz**. 
+**University of California, Santa Cruz**<br>
 BS & MS, Computer Science
 
 ## Skills ##
