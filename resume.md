@@ -57,4 +57,17 @@ Developed OpenSocial REST web services and APIs, including core functionality su
 ##### Aug 2004 - Sept 2010 #####
 Developed primarily user-facing features on Bing Book Search v1.0, Academic Search v2.0, and Windows Vista/7/8. On Internet Explorer 9, I added fundamental HTML5 and SVG features such as SVG Gradient and contributed to GPU-accelerated rendering.
 
+## Education ##
+**University of California, Santa Cruz**. 
+BS & MS, Computer Science
+
+## Skills ##
+* Leading distributed product development teams
+* Leadership development, mentoring
+* Agile Scrum and Kanban, scrum master
+* *Technical*: C#, .Net Core, C++, React, TypeScript / JavaScript, Node.js, Html, Css, Amazon Web Services / AWS, Microsoft Azure, CI/CD, service-oriented architecture / microservices, DevOps
+Project Management
+* Working with diverse stakeholders
+* Effective communication and writing
+
 Also see [Alex D'Angelo on LinkedIn](https://www.linkedin.com/in/alexdangelo/).
