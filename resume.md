@@ -3,6 +3,10 @@ layout: page
 title: Resume of Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
+Well-rounded software engineering leader. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products.
+
+I foster a supportive environment where it is my belief and experience that being open and vulnerable leads to deeper connections, growth from taking risk, and a stronger team overall.
+
 ### PayScale, Seattle, WA — Software Development Manager ###
 ##### *Jan 2018 - Feb 2020* #####
 
