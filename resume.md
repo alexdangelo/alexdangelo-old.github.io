@@ -36,7 +36,7 @@ Led the team in
 * Adding unique content that scales to millions of pages using, for example, PayScale survey data, user-generated content, machine learning, and public data sources.
 * Splitting a monolithic application into independent components
 * A/B testing features and SEO improvements.
-* Buildings games for cleaning and classifying data.
+* Building games for cleaning and classifying data.
 
 ### Web Architect - PayScale, Seattle, WA ###
 ##### *Aug 2014 - Jan 2016* #####
