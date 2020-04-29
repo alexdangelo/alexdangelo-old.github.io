@@ -26,7 +26,7 @@ I served my team by encouraging leadership, collaboration, and personal initiati
 
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2016 - Jan 2018* #####
-Led a team of 4 engineers responsible for serving ~3 million unique pages to tens of millions of users on payscale.com.
+Led a team of 4 engineers responsible for serving ~3 million unique pages to tens of millions of visitors on payscale.com.
 
 Increased front-end and server-side performance (nearly 2x faster).
 
