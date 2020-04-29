@@ -7,7 +7,7 @@ Well-rounded software engineering leader. I build collaborative, effective engin
 
 I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall. 
 
-### PayScale, Seattle, WA — Software Development Manager ###
+### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2018 - Feb 2020* #####
 
 Led software development of PayScale's SaaS business applications in Seattle. Led two distributed full-stack teams across 3 products and directly managed 7 engineers.
@@ -22,7 +22,7 @@ Designed and built a custom version of a flagship product, including migrating t
 
 I served my team by encouraging leadership, collaboration, and personal initiative. Nurturing their development through regular 1:1s, career planning, and new experiences.
 
-### PayScale, Seattle, WA — Software Development Manager ###
+### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2016 - Jan 2018* #####
 Led a team of 4 engineers responsible for serving ~3 million unique pages to tens of millions of users on payscale.com.
 
@@ -36,7 +36,7 @@ Led the team in
 * A/B testing features and SEO improvements.
 * Buildings games for cleaning and classifying data.
 
-### PayScale, Seattle, WA — Web Architect ###
+### Web Architect - PayScale, Seattle, WA ###
 ##### *Aug 2014 - Jan 2016* #####
 Principal-level role in charge of the front-end platform for all products.
 
@@ -46,18 +46,18 @@ Scaled the public site serving millions of pages each month using AWS CloudFront
 
 Managed 1 engineer and 1 intern, mentored other engineers.
 
-### PayScale, Seattle, WA — Senior Software Engineer ###
+### Senior Software Engineer - PayScale, Seattle, WA ###
 ##### *May 2011 - Aug 2014* #####
 
 As a full-stack developer on SaaS business products I built major new features and overhauled existing services.
 
 Identified a new source of revenue and created a brand new type of job. Presented my side project, web chat, to multiple levels of management across Product Development, Marketing, and Sales teams, convincing them to create a new division within Sales. I personally piloted chat directly with potential customers, contributing to $180,000+ in new opportunities over a two-week period.
 
-### Myspace, Seattle, WA — Senior Software Engineer ###
+### Senior Software Engineer - Myspace, Seattle, WA ###
 ##### *Oct 2010 - May 2011* #####
 Developed OpenSocial REST web services and APIs, including core functionality such as adding comments and accepting friend requests.
 
-### Microsoft, Redmond, WA — Software Design Engineer ###
+### Software Design Engineer - Microsoft, Redmond, WA ###
 ##### *Aug 2004 - Sept 2010* #####
 Developed primarily user-facing features on Bing Book Search v1.0, Academic Search v2.0, and Windows Vista/7/8. On Internet Explorer 9, I added fundamental HTML5 and SVG features such as SVG Gradient and contributed to GPU-accelerated rendering.
 
