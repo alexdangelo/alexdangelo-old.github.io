@@ -3,6 +3,8 @@ layout: page
 title: Resume of Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
+[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2020-04-28.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
+
 Well-rounded software engineering leader. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 
 I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall. 
@@ -72,5 +74,3 @@ BS & MS, Computer Science
 * *Technical*: C#, .Net Core, C++, React, TypeScript / JavaScript, Node.js, Html, Css, Amazon Web Services / AWS, Microsoft Azure, CI/CD, Service-oriented architecture / Microservices, DevOps, Project Management
 * Working with diverse stakeholders
 * Effective communication and writing
-
-Also see [Alex D'Angelo on LinkedIn](https://www.linkedin.com/in/alexdangelo/).
