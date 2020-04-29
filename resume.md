@@ -12,7 +12,7 @@ I foster a supportive environment, where being open and vulnerable leads to deep
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2018 - Feb 2020* #####
 
-Led software development of PayScale's SaaS business applications in Seattle. Led two distributed full-stack teams across 3 products and directly managed 7 engineers.
+Led software development of SaaS business applications in Seattle. Led two distributed full-stack teams across 3 products and directly managed 7 engineers.
 
 Focus was on leading development of a cloud-based pay cycle administration product. It was halfway through a complete rewrite when I was asked to take it over. Completed core functionality and addressed key performance, security, scalability, and stability issues while increasing test coverage and reducing the support cost.
 
