@@ -36,16 +36,20 @@ My personal site receives virtually no traffic at this point. There isn't much o
 
 ### Results
 
-After posting, my personal site received 35 visits within the first day, and 2 the second day. It dropped back to zero after that.
+After posting, my personal site received 35 visits within the first day, and 2 the second day. It dropped back to zero after that. This doesn't account for browsers that block Google Analytics tracking but in this case I suspect the results would be not significantly different.
+
+![Visitors spiked from 0 to 35 after posting on Hacker News](/assets/uploads/2020-06-03-ga-views.png)
 
 LinkedIn profile views often range between 13 to 21 views per week. After posting, views jumped to 32 per week, and the week is only halfway over.
 
+![A spike in LinkedIn profile views per week from the teens to low 30s](/assets/uploads/2020-06-03-linkedin-views.png)
+
 I received 1 LinkedIn connection request, which specifically mentioned my post on HN, for a company in the United Kingdom (I'm in Seattle, USA). I also received 3 emails from Amazon recruiters and dev managers but I'm unsure if that is related to HN or this is just part of a typical week.
 
-### Conclusion
+### Conclusion (?)
 
-People do look at the thread and it resulted in one potential connection that I wouldn't have known about otherwise. No judgement other than it's a data point.
+This experiment simply results in a data point. People do look at the thread and it resulted in one potential connection that I wouldn't have known about otherwise.
 
 ### Future
 
-Next time include an email address if or when I post to this thread. I omitted it to reduce chances of spam and guessed that if someone was really interested they could contact me via LinkedIn.
+Next time include an email address if or when I post to this thread. This time I omitted it to reduce chances of spam and guessed that if someone was really interested they could contact me via LinkedIn.
