@@ -46,6 +46,12 @@ LinkedIn profile views often range between 13 to 21 views per week. After postin
 
 I received 1 LinkedIn connection request, which specifically mentioned my post on HN, for a company in the United Kingdom (I'm in Seattle, USA). I also received 3 emails from Amazon recruiters and dev managers but I'm unsure if that is related to HN or this is just part of a typical week.
 
+### Observations on the hiring side
+
+I've also been on the other side, using HN as a way to recruit software engineers. I typically reached out to 0-2 people each month. This resulted in at least one person doing a full interview loop. 
+
+I found HN useful to quickly see and have access to candidates I would have never found otherwise. At the same time the wide variety of interests and locations made it a challenge to find people that could be a good fit for the few roles that were open.
+
 ### Conclusion (?)
 
 This experiment simply results in a data point. People do look at the thread and it resulted in one potential connection that I wouldn't have known about otherwise.
