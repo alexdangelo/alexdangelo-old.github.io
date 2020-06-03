@@ -14,24 +14,18 @@ I was reached out to by 1 person on LinkedIn and my personal site and LinkedIn h
 
 ### Conditions
 
-This experiment is during the COVID-19 pandemic. The US unemployment rate is 14.7% as of Apr 2020 [https://data.bls.gov/timeseries/LNS14000000.](https://data.bls.gov/timeseries/LNS14000000. "https://data.bls.gov/timeseries/LNS14000000.") Although it's not as bad in the tech industry, there are ripple effects still to be felt. Many companies have slowed down their hiring rate, or have hiring freezes or even layoffs. Some notable exceptions are Amazon and Facebook which I've observed dominate the job listings on places like LinkedIn. 
+This experiment is during the COVID-19 pandemic. The US unemployment rate is [14.7% as of Apr 2020](https://data.bls.gov/timeseries/LNS14000000). Although it's not as bad in the tech industry, there are ripple effects still to be felt. Many companies have slowed down their hiring rate, or have hiring freezes or even layoffs. Some notable exceptions are Amazon and Facebook which I've observed dominate the job listings on places like LinkedIn.
 
 My personal site receives virtually no traffic at this point. There isn't much on it yet and I haven't promoted it. In this case, great! That makes it easy to measure traffic as a result of posting on Hacker News.
 
 [My post on HN](https://news.ycombinator.com/item?id=23384265) (also below)
 
 > Engineering Manager
->
 > Location: Seattle, WA
->
 > Remote: Yes
->
 > Willing to relocate: No
->
 > Technologies: C#, C++, React, AWS / Azure, TypeScript / JavaScript
->
 > Résumé/CV: [https://www.alexdangelo.com/resume/](https://www.alexdangelo.com/resume/ "https://www.alexdangelo.com/resume/")
->
 > LinkedIn: [https://www.linkedin.com/in/alexdangelo/](https://www.linkedin.com/in/alexdangelo/ "https://www.linkedin.com/in/alexdangelo/")
 >
 > I'm a well-rounded software engineering leader. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
@@ -44,13 +38,13 @@ My personal site receives virtually no traffic at this point. There isn't much o
 
 After posting, my personal site received 35 visits within the first day, and 2 the second day. It dropped back to zero after that.
 
-LinkedIn profile views often range between 13 to 21 views per week. After posting, views jumped to 32 per week, and the week is only halfway over. 
+LinkedIn profile views often range between 13 to 21 views per week. After posting, views jumped to 32 per week, and the week is only halfway over.
 
-I received 1 LinkedIn connection request, which specifically mentioned my post on HN, for a company in the United Kingdom (I'm in Seattle, USA). I also received 3 emails from Amazon recruiters and dev managers but I'm unsure if that is related to HN or this is just part of a typical week. 
+I received 1 LinkedIn connection request, which specifically mentioned my post on HN, for a company in the United Kingdom (I'm in Seattle, USA). I also received 3 emails from Amazon recruiters and dev managers but I'm unsure if that is related to HN or this is just part of a typical week.
 
 ### Conclusion
 
-People do look at the thread and it resulted in one potential connection that I wouldn't have known about otherwise. No judgement other than it's a data point. 
+People do look at the thread and it resulted in one potential connection that I wouldn't have known about otherwise. No judgement other than it's a data point.
 
 ### Future
 
