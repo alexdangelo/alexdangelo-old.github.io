@@ -11,3 +11,16 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
