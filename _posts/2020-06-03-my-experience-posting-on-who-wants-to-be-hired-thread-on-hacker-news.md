@@ -60,4 +60,4 @@ This experiment simply results in a data point. People do look at the thread and
 
 Next time include an email address if or when I post to this thread. This time I omitted it to reduce chances of spam and guessed that if someone was really interested they could contact me via LinkedIn.
 
-This is all in addition to my own effort of researching and directly reaching out to companies, previous colleagues, and doing what I can to build those connections to both learn what it's like to be there as well as show off what I can offer.
+This is all in addition to my own active effort of researching and directly reaching out to companies, previous colleagues, and doing what I can to build those connections to both learn what it's like to be there as well as show off what I can offer.
