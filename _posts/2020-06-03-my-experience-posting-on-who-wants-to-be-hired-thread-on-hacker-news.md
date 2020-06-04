@@ -20,13 +20,13 @@ My personal site receives virtually no traffic at this point. There isn't much o
 
 [My post on HN](https://news.ycombinator.com/item?id=23384265) (also below)
 
-> Engineering Manager
-> Location: Seattle, WA
-> Remote: Yes
-> Willing to relocate: No
-> Technologies: C#, C++, React, AWS / Azure, TypeScript / JavaScript
-> Résumé/CV: [https://www.alexdangelo.com/resume/](https://www.alexdangelo.com/resume/ "https://www.alexdangelo.com/resume/")
-> LinkedIn: [https://www.linkedin.com/in/alexdangelo/](https://www.linkedin.com/in/alexdangelo/ "https://www.linkedin.com/in/alexdangelo/")
+> * Engineering Manager
+> * Location: Seattle, WA 
+> * Remote: Yes
+> * Willing to relocate: No 
+> * Technologies: C#, C++, React, AWS / Azure, TypeScript / JavaScript
+> * Résumé/CV: [https://www.alexdangelo.com/resume/](https://www.alexdangelo.com/resume/ "https://www.alexdangelo.com/resume/")
+> * LinkedIn: [https://www.linkedin.com/in/alexdangelo/](https://www.linkedin.com/in/alexdangelo/ "https://www.linkedin.com/in/alexdangelo/")
 >
 > I'm a well-rounded software engineering leader. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 >
