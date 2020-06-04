@@ -10,7 +10,7 @@ I posted info about myself on the [June 2020 "Who Wants to be Hired"](https://ne
 
 ### Summary
 
-I was reached out to by 1 person on LinkedIn and my personal site and LinkedIn had a brief spike in views.
+I was reached out to by 1 person on LinkedIn and my personal site and LinkedIn had a brief spike in views. 
 
 ### Conditions
 
@@ -21,9 +21,9 @@ My personal site receives virtually no traffic at this point. There isn't much o
 [My post on HN](https://news.ycombinator.com/item?id=23384265) (also below)
 
 > * Engineering Manager
-> * Location: Seattle, WA 
+> * Location: Seattle, WA
 > * Remote: Yes
-> * Willing to relocate: No 
+> * Willing to relocate: No
 > * Technologies: C#, C++, React, AWS / Azure, TypeScript / JavaScript
 > * Résumé/CV: [https://www.alexdangelo.com/resume/](https://www.alexdangelo.com/resume/ "https://www.alexdangelo.com/resume/")
 > * LinkedIn: [https://www.linkedin.com/in/alexdangelo/](https://www.linkedin.com/in/alexdangelo/ "https://www.linkedin.com/in/alexdangelo/")
@@ -44,7 +44,7 @@ LinkedIn profile views often range between 13 to 21 views per week. After postin
 
 ![A spike in LinkedIn profile views per week from the teens to low 30s](/assets/uploads/2020-06-03-linkedin-views.png)
 
-I received 1 LinkedIn connection request, which specifically mentioned my post on HN, for a company in the United Kingdom (I'm in Seattle, USA). I also received 3 emails from Amazon recruiters and dev managers but I'm unsure if that is related to HN or this is just part of a typical week.
+I received 1 LinkedIn connection request, which specifically mentioned my post on HN, for a company in the United Kingdom (just in case something could work out since I'm in Seattle, USA). I also received 3 emails from Amazon recruiters and dev managers but I'm unsure if that is related to HN or this is just part of a typical week.
 
 ### Observations on the hiring side
 
