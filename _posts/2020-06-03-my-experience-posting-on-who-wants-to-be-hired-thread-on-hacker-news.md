@@ -6,7 +6,7 @@ subtitle: ''
 date: 2020-06-03 06:03:00 -0700
 
 ---
-I posted on the [June 2020 "Who Wants to be Hired"](https://news.ycombinator.com/item?id=23379194) thread on Hacker News. People's posts represent a wide variety of technical roles and locations. What would happen? Who looks at this? This is my anecdotal experience.
+I posted info about myself on the [June 2020 "Who Wants to be Hired"](https://news.ycombinator.com/item?id=23379194) thread on Hacker News. The thread has lots of posts of people covering a wide variety of technical roles and locations. What would happen if I did it? Who looks at this? This is my anecdotal experience.
 
 ### Summary
 
@@ -48,7 +48,7 @@ I received 1 LinkedIn connection request, which specifically mentioned my post o
 
 ### Observations on the hiring side
 
-I've also been on the other side, using HN as a way to recruit software engineers. I typically reached out to 0-2 people each month. This resulted in at least one person doing a full interview loop. 
+I've also been on the other side, using HN as a way to recruit software engineers. I typically reached out to 0-2 people from the thread each month. This resulted in at least one person doing a full interview loop.
 
 I found HN useful to quickly see and have access to candidates I would have never found otherwise. At the same time the wide variety of interests and locations made it a challenge to find people that could be a good fit for the few roles that were open.
 
