@@ -3,7 +3,7 @@ layout: page
 title: Resume of Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
-[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2020-04-28.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
+[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2020-08-25.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
 
 Well-rounded software engineering leader. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 
@@ -14,7 +14,7 @@ I foster a supportive environment, where being open and vulnerable leads to deep
 
 Led software development of SaaS business applications in Seattle. Led two distributed full-stack teams across 3 products and directly managed 7 engineers.
 
-Focus was on leading development of a cloud-based pay cycle administration product. It was halfway through a complete rewrite when I was asked to take it over. Completed core functionality and addressed key performance, security, scalability, and stability issues while increasing test coverage and reducing the support cost.
+Focus was on leading development of a cloud-based pay cycle administration product. It was halfway through a complete rewrite when I was asked to take it over. Led the team to complete core functionality and address key performance, security, and stability issues while increasing test coverage and reducing the support cost.
 
 Worked cross-team to create roadmaps balancing product and engineering needs. Delivered changes with the biggest impact while minimizing development cost.
 
