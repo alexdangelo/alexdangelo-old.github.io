@@ -3,11 +3,15 @@ layout: page
 title: Resume of Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
-[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2020-08-25.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
+[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2020-11-30.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
 
 Well-rounded software engineering leader. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 
 I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall. 
+
+### Software Engineering Manager - Craft.co, Seattle, WA | Remote###
+##### *Oct 2020 - current* #####
+Led software development of SaaS business applications. Built a fully remote US engineering team from scratch, hiring 3 engineers.
 
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2018 - Feb 2020* #####
