@@ -9,9 +9,9 @@ Well-rounded software engineering leader. I build collaborative, effective engin
 
 I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall. 
 
-### Software Engineering Manager - Craft.co, Seattle, WA | Remote###
+### Software Engineering Manager - Craft.co, Seattle, WA ###
 ##### *Oct 2020 - current* #####
-Led software development of SaaS business applications. Built a fully remote US engineering team from scratch, hiring 3 engineers.
+Built a fully remote US engineering team from scratch, hiring 3 engineers, to work on a SaaS business product and API.
 
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2018 - Feb 2020* #####
