@@ -24,5 +24,3 @@ fields:
   type: tag_list
   default: []
   label: tags
-pages:
-- _posts/my-experience-posting-on-who-wants-to-be-hired-thread-on-hacker-news.md
