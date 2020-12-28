@@ -42,7 +42,7 @@ Raw data: [Applicants by country.csv](/assets/uploads/2020-11-02-hacker-news-num
 
 ## Reference: The Ad on Hacker News
 
-> [Craft.co](http://craft.co/) \\| San Francisco, Seattle, Anywhere USA or Europe, REMOTE \\| Software Engineer (all levels) \\| Full-time
+> [Craft.co](http://craft.co/) : San Francisco, Seattle, Anywhere USA or Europe, REMOTE : Software Engineer (all levels) : Full-time
 >
 > If you knew everything about every business, what kinds of questions could you answer? For example, companies that work with other companies (think "supply-chain") use this to help understand risk, competition, and market segments.
 >
