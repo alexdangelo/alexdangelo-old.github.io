@@ -33,9 +33,11 @@ Of the 34 direct applicants:
 ![Of 34 direct applicants, roughly 14.7% were female and 85.3% were male.](/assets/uploads/2020-11-02-hacker-news-direct_applicants.svg)
 
 ![Of 34 direct applicants, 20 had 0-2 years experience, with the rest distributed mostly between 3-8 years experience.](/assets/uploads/2020-11-02-hacker-news-direct_applicants_vs-_years_experience.svg)
+
 Raw data: [Applicants by years of experience.csv](/assets/uploads/2020-11-02-hacker-news-number-of-applicants-by-years-of-experience.csv "2020-11-02-hacker-news-number-of-applicants-by-years-of-experience.csv")
 
 ![Most applicants are based in the United States (27 of 34), which makes sense because HackerNews is based in the US.](/assets/uploads/2020-11-02-hacker-news-applicants_vs-_country.svg)
+
 Raw data: [Applicants by country.csv](/assets/uploads/2020-11-02-hacker-news-number-of-applicants-by-country.csv "2020-11-02-hacker-news-number-of-applicants-by-country.csv")
 
 ## Reference: The Ad on Hacker News
