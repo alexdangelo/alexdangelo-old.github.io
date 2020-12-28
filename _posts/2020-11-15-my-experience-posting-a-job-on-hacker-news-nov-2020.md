@@ -19,7 +19,7 @@ Other considerations: I only posted the one job description targeting a specific
 Within the first 2 days (and primarily the first 24 hours):
 
 * **11** emails from candidates, including 9 resumes (all men)
-* **6** LinkedIn connection requests (4 candidates, 1 React consultant, 1 recruiter | 4 men, 2 women)
+* **6** LinkedIn connection requests (4 candidates, 1 React consultant, 1 recruiter, or 4 men & 2 women)
 * **2** LinkedIn InMail messages
 * **34** people directly applied to the job (and after 3 days, this increased to 51 people)
 
@@ -40,7 +40,7 @@ Raw data: [Applicants by country.csv](/assets/uploads/2020-11-02-hacker-news-num
 
 ## Reference: The Ad on Hacker News
 
-> [Craft.co](http://craft.co/) | San Francisco, Seattle, Anywhere USA or Europe, REMOTE | Software Engineer (all levels) | Full-time
+> [Craft.co](http://craft.co/) \\| San Francisco, Seattle, Anywhere USA or Europe, REMOTE \\| Software Engineer (all levels) \\| Full-time
 >
 > If you knew everything about every business, what kinds of questions could you answer? For example, companies that work with other companies (think "supply-chain") use this to help understand risk, competition, and market segments.
 >
