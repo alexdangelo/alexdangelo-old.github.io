@@ -11,7 +11,7 @@ I foster a supportive environment, where being open and vulnerable leads to deep
 
 ### Software Engineering Manager - Craft.co, Seattle, WA ###
 ##### *Oct 2020 - current* #####
-Built a fully remote US engineering team from scratch, hiring 3 engineers, to work on a SaaS business product and API.
+Built the fully remote US + Canada engineering team from scratch, hiring 4 full-stack & data engineers to work on SaaS business products and APIs.
 
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2018 - Feb 2020* #####
