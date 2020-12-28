@@ -12,7 +12,7 @@ Every month Hacker News has a "Who Is Hiring" thread. I posted a single job for 
 
 **Discussion**: The applicants from Hacker News tend to reflect the industry as a whole, and women only made up a small percentage of the group. While I think there could be some great candidates that applied (and I will review them all), the HN audience may not be the first place to go to source a diverse array of candidates.
 
-Other considerations: I only posted the one job description targeting a specific type of engineer (full-stack). I chose to summarize what Craft does differently than shown in job descriptions.
+Other considerations: I only posted the one job description targeting a specific type of engineer (full-stack). I chose to summarize what Craft.co does differently than shown in job descriptions.
 
 ## Results
 
@@ -23,7 +23,7 @@ Within the first 2 days (and primarily the first 24 hours):
 * **2** LinkedIn InMail messages
 * **34** people directly applied to the job (and after 3 days, this increased to 51 people)
 
-A small number of people contacted Craft or me in multiple ways (such as emailing me their resume and applying directly to the job).
+A small number of people contacted Craft.co or me in multiple ways (such as emailing me their resume and applying directly to the job).
 
 Of the 34 direct applicants:
 
@@ -46,7 +46,7 @@ Raw data: [Applicants by country.csv](/assets/uploads/2020-11-02-hacker-news-num
 >
 > If you knew everything about every business, what kinds of questions could you answer? For example, companies that work with other companies (think "supply-chain") use this to help understand risk, competition, and market segments.
 >
-> Craft is a startup with B2B and Consumer products that help answer these questions with a simple and beautiful UX. We use React, TypeScript, GraphQL, node, Postgres, AWS. We're an \~73 person team (SF, Seattle, LA, Salt Lake City, London, Minsk, and remote).
+> Craft.co is a startup with B2B and Consumer products that help answer these questions with a simple and beautiful UX. We use React, TypeScript, GraphQL, node, Postgres, AWS. We're a \~73 person team (SF, Seattle, LA, Salt Lake City, London, Minsk, and remote).
 >
 > I'm hiring 4+ full-stack, front-end, and back-end software engineers at jr/mid/senior levels. This job represents multiple openings [https://boards.greenhouse.io/craftco/jobs/4164351003](https://boards.greenhouse.io/craftco/jobs/4164351003 "https://boards.greenhouse.io/craftco/jobs/4164351003") but please apply and we can tailor to match your background.
 >
