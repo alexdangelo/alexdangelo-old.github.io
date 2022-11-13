@@ -3,15 +3,34 @@ layout: page
 title: Resume of Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
-[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2020-11-30.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
+[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2022-11-13.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
 
-Well-rounded software engineering leader. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
+Well-rounded software engineering director. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 
-I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall. 
+I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall.
+
+### Director of Engineering - Craft.co, Seattle, WA ###
+##### *Dec 2021 - current* #####
+
+Leading engineering globally. Defined the engineering vision and strategy.
 
 ### Software Engineering Manager - Craft.co, Seattle, WA ###
-##### *Oct 2020 - current* #####
-Built the fully remote US + Canada engineering team from scratch, hiring 4 full-stack & data engineers to work on SaaS business products and APIs.
+##### *Oct 2020 - Dec 2021* #####
+Building fundamental features and processes and putting in the infrastructure foundation to scale engineering and product usage 10x. First US engineering hire. Responsible for 3 teams: SaaS enterprise product, Growth/Consumer, and Platform / DevOps / Security / IT. 
+
+For the global engineering org
+* Recruited and hired a diverse North American engineering org across multiple dimensions. 100% offers accepted.
+* Wrote the incident response plan, in partnership with Customer Success
+* Rolled out global on-call support to all engineers, including research, training, and extensive support documentation
+* Set up a Help Desk ticketing system for IT, Security, and bug reports.
+* Overhauled the engineering level descriptions to be more granular to set clearer expectations and facilitate career conversations
+* Overhauled onboarding guide used by all new engineering hires.
+* Led a regular global engineering leads meeting to provide support and peer mentorship to each other
+
+As full-stack engineering chapter lead
+* Regularly facilitated chapter meetings, providing an opportunity for engineers to lead tech talks, reviewing proposals, and discuss technical and process topics.
+* Membership grew from 5 to 12 engineers globally representing 5 countries.
+* I set the technical roadmap and priorities, incorporating feedback from each member.
 
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2018 - Feb 2020* #####
