@@ -12,7 +12,23 @@ I foster a supportive environment, where being open and vulnerable leads to deep
 ### Director of Engineering - Craft.co, Seattle, WA ###
 ##### *Dec 2021 - current* #####
 
-Leading engineering globally. Defined the engineering vision and strategy.
+Leading the entire 40+ person global engineering and IT organization. 
+
+Delivery and Impact
+* Defined and executed the engineering vision and strategy.
+* Delivered flagship B2B and Consumer applications and API with weekly releases and entire new feature areas with a distributed team in the US, South America, and Europe.
+* Established engineering performance metrics and KPIs.
+
+Team Building
+* Partnered with Recruiting and led engineering in overhauling recruiting practices to streamline and land great candidates. 90%+ offer acceptance rate. 
+* Grew engineering org from 20 to 40+ engineers on the journey from Series A to Series B and beyond.
+* Championed increasing diversity through recruiting and organizational practices.
+* Zero regrettable attrition in 18 month tenure.
+
+Technical Efficiency
+* Set the technical strategy focusing on delivering business value and engineering excellence. 
+* Drove or sponsored projects that reduced costs by six figures and saved several weeks of engineering time.
+* Partnered with Product, Design, and Customer Success to become empathetic with our customers and ensure we're building the best application possible.
 
 ### Software Engineering Manager - Craft.co, Seattle, WA ###
 ##### *Oct 2020 - Dec 2021* #####
