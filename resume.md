@@ -3,7 +3,7 @@ layout: page
 title: Resume of Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
-[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2023-10-23.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
+[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2023-10-24.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
 
 Well-rounded software engineering director. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 
