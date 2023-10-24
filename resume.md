@@ -10,7 +10,7 @@ Well-rounded software engineering director. I build collaborative, effective eng
 I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall.
 
 ### Head of Engineering - Craft.co, Seattle, WA ###
-##### *Feb 2021 - current* #####
+##### *Feb 2022 - current* #####
 
 Leading the entire 40+ person global engineering and IT organization. 
 
@@ -31,7 +31,7 @@ Technical Efficiency
 * Partnered with Product, Design, and Customer Success to become empathetic with our customers and ensure we're building the best application possible.
 
 ### Director of Engineering - Craft.co, Seattle, WA ###
-##### *Jul 2021 - Feb 2021* #####
+##### *Jul 2021 - Feb 2022* #####
 
 ### Software Engineering Manager - Craft.co, Seattle, WA ###
 ##### *Oct 2020 - Jul 2021* #####
