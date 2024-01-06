@@ -3,7 +3,7 @@ layout: page
 title: Resume of Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
-[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2023-10-24.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
+[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2024-01-06.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
 
 Well-rounded software engineering director. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 
@@ -33,8 +33,6 @@ Technical Efficiency
 ### Director of Engineering - Craft.co, Seattle, WA ###
 ##### *Jul 2021 - Feb 2022* #####
 
-### Software Engineering Manager - Craft.co, Seattle, WA ###
-##### *Oct 2020 - Jul 2021* #####
 Building fundamental features and processes and putting in the infrastructure foundation to scale engineering and product usage 10x. First US engineering hire. Responsible for 3 teams: SaaS enterprise product, Growth/Consumer, and Platform / DevOps / Security / IT. 
 
 For the global engineering org
@@ -50,6 +48,8 @@ As full-stack engineering chapter lead
 * Regularly facilitated chapter meetings, providing an opportunity for engineers to lead tech talks, reviewing proposals, and discuss technical and process topics.
 * Membership grew from 5 to 12 engineers globally representing 5 countries.
 * I set the technical roadmap and priorities, incorporating feedback from each member.
+
+Also acted as the engineering manager from Oct 2020 to Jul 2021.
 
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2018 - Feb 2020* #####
