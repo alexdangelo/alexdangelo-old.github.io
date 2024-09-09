@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume of Alex D'Angelo
+title: Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
 [PDF](https://www.alexdangelo.com/alex-dangelo-resume-2024-09-09.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
