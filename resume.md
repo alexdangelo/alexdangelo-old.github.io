@@ -5,7 +5,7 @@ xsubtitle: Hi, my name is Alex
 ---
 [PDF](https://www.alexdangelo.com/alex-dangelo-resume-2024-09-09.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
 
-Well-rounded software engineering director. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
+I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 
 I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall.
 
