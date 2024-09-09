@@ -3,82 +3,71 @@ layout: page
 title: Resume of Alex D'Angelo
 xsubtitle: Hi, my name is Alex
 ---
-[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2024-01-06.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
+[PDF](https://www.alexdangelo.com/alex-dangelo-resume-2024-09-09.pdf) | [LinkedIn](https://www.linkedin.com/in/alexdangelo/)
 
 Well-rounded software engineering director. I build collaborative, effective engineering teams and help develop leaders, all in service of making great products people love.
 
 I foster a supportive environment, where being open and vulnerable leads to deeper connections, growth from taking risks, and a stronger team overall.
 
 ### Head of Engineering - Craft.co, Seattle, WA ###
-##### *Feb 2022 - current* #####
+##### *Feb 2022 - Feb 2024* #####
 
-Leading the entire 40+ person global engineering and IT organization. 
+*Craft (Series B) helps organizations reduce risks in their supply chain. During this period revenue increased 3x year-over-year, each year, with multi-million dollar contracts.*
+
+Led the 40+ person global engineering and IT organization.
 
 Delivery and Impact
-* Defined and executed the engineering vision and strategy.
-* Delivered flagship B2B and Consumer applications and API with weekly releases and entire new feature areas with a distributed team in the US, South America, and Europe.
-* Established engineering performance metrics and KPIs.
+* Successfully delivered flagship B2B and Consumer apps and API with weekly releases. Gained SOC2 compliance.
+* Oversaw development of the data platform for AI / ML for data science and analysis. 
+* Defined and executed the engineering strategy and roadmap, driving business value and engineering excellence.
+* Partnered with C-level and department heads to launch new products and features, improve support, reduce costs, and become empathetic with our customers.
 
 Team Building
-* Partnered with Recruiting and led engineering in overhauling recruiting practices to streamline and land great candidates. 90%+ offer acceptance rate. 
-* Grew engineering org from 20 to 40+ engineers on the journey from Series A to Series B and beyond.
-* Championed increasing diversity through recruiting and organizational practices.
-* Zero regrettable attrition in 18 month tenure.
+* Overhauled hiring practices in partnership with Recruiting to improve velocity & candidate experience, achieving a ~90% offer acceptance rate. 
+* Built a diverse global team while scaling from 20 to 40+ engineers. 
+* Turned around the broader engineering org with high attrition and low morale. For example, one team had a +30 NPS increase.
+* Nearly zero regrettable attrition as a result.
 
 Technical Efficiency
-* Set the technical strategy focusing on delivering business value and engineering excellence. 
-* Drove or sponsored projects that reduced costs by six figures and saved several weeks of engineering time.
-* Partnered with Product, Design, and Customer Success to become empathetic with our customers and ensure we're building the best application possible.
+* Drove or oversaw projects that reduced development costs by six figures and saved several weeks of engineering time.
+* Established engineering performance metrics and KPIs. Examples: reduced data support costs by 75%, and CI/CD time by 50%.
 
 ### Director of Engineering - Craft.co, Seattle, WA ###
 ##### *Jul 2021 - Feb 2022* #####
 
-Building fundamental features and processes and putting in the infrastructure foundation to scale engineering and product usage 10x. First US engineering hire. Responsible for 3 teams: SaaS enterprise product, Growth/Consumer, and Platform / DevOps / Security / IT. 
+As the first U.S. engineering hire, laid the groundwork for scaling engineering and product usage by 10x, overseeing SaaS enterprise, Growth/Consumer, and Platform/DevOps/Security/IT teams.
 
 For the global engineering org
-* Recruited and hired a diverse North American engineering org across multiple dimensions. 100% offers accepted.
-* Wrote the incident response plan, in partnership with Customer Success
-* Rolled out global on-call support to all engineers, including research, training, and extensive support documentation
-* Set up a Help Desk ticketing system for IT, Security, and bug reports.
-* Overhauled the engineering level descriptions to be more granular to set clearer expectations and facilitate career conversations
-* Overhauled onboarding guide used by all new engineering hires.
-* Led a regular global engineering leads meeting to provide support and peer mentorship to each other
+* Built a diverse North American engineering org.
+* Wrote incident response plan, partnering with Customer Success.
+* Rolled out global on-call support to all engineers, including research, training, and extensive support documentation.
+* Set up a Help Desk ticket system for IT, customer bug reports, security, internal processes. Tracked SLAs and used the data to make targeted improvements to reduce support costs while improving responsiveness to internal teams and external customers.
+* Overhauled the engineering level descriptions to set clear expectations and created tools to facilitate career conversations.
+* Revamped onboarding guide which decreased ramp-up time.
 
 As full-stack engineering chapter lead
-* Regularly facilitated chapter meetings, providing an opportunity for engineers to lead tech talks, reviewing proposals, and discuss technical and process topics.
-* Membership grew from 5 to 12 engineers globally representing 5 countries.
-* I set the technical roadmap and priorities, incorporating feedback from each member.
+* Set the technical roadmap for the application platform, overseeing projects to increase engineering excellence and productivity.
+* Facilitated chapter meetings, promoting knowledge sharing through tech talks and proposal reviews.
 
 Also acted as the engineering manager from Oct 2020 to Jul 2021.
 
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2018 - Feb 2020* #####
 
-Led software development of SaaS business applications in Seattle. Led two distributed full-stack teams across 3 products and directly managed 7 engineers.
+*PayScale is an HR tech startup with B2C and B2B products that helps people get paid fairly, efficiently, and retain their workers.*
 
-Focus was on leading development of a cloud-based pay cycle administration product. It was halfway through a complete rewrite when I was asked to take it over. Led the team to complete core functionality and address key performance, security, and stability issues while increasing test coverage and reducing the support cost.
+Led software development of SaaS business apps in Seattle, with two distributed full-stack teams across 3 products.
 
-Worked cross-team to create roadmaps balancing product and engineering needs. Delivered changes with the biggest impact while minimizing development cost.
-
-Mentored managers across the company, including outside of engineering, and consistently received feedback that it made a positive impact in their leadership.
-
-Designed and built a custom version of a flagship product, including migrating thousands of accounts to a new platform. I drove the project end-to-end, working directly with stakeholders at one of PayScale's largest customers.
-
-I served my team by encouraging leadership, collaboration, and personal initiative. Nurturing their development through regular 1:1s, career planning, and new experiences.
+Delivered a v1 cloud-based pay cycle administration app. Completed core functionality and addressed key performance, security, and stability issues while increasing test coverage and reducing the support cost.
 
 ### Software Development Manager - PayScale, Seattle, WA ###
 ##### *Jan 2016 - Jan 2018* #####
-Led a team of 4 engineers responsible for serving ~3 million unique pages to tens of millions of visitors on payscale.com.
+Led the team responsible for serving ~3 million unique data-driven pages to tens of millions of visitors on payscale.com to help people understand how much they should be paid. 
 
-Increased front-end and server-side performance (nearly 2x faster).
+In addition, I scaled the site to support the traffic serving millions of pages each month using AWS CloudFront, S3, WAF, HAProxy.
 
-Organized quarterly hack days, over a 3 year period, for the entire engineering org; many projects led to features in production.
+Organized quarterly hack days for 3 years, leading to production features.
 
-Led the team in
-* Adding unique content that scales to millions of pages using, for example, PayScale survey data, user-generated content, machine learning, and public data sources.
-* Splitting a monolithic application into independent components
-* A/B testing features and SEO improvements.
-* Building games for cleaning and classifying data.
 
 ### Web Architect - PayScale, Seattle, WA ###
 ##### *Aug 2014 - Jan 2016* #####
@@ -116,3 +105,10 @@ BS & MS, Computer Science
 * *Technical*: C#, .Net Core, C++, React, TypeScript / JavaScript, Node.js, Html, Css, Amazon Web Services / AWS, Microsoft Azure, CI/CD, Service-oriented architecture / Microservices, DevOps, Project Management
 * Working with diverse stakeholders
 * Effective communication and writing
+
+## Volunteering ##
+**School PTA**
+
+President, 2020-2021
+
+Board member, 2018-2020
